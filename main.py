@@ -7,7 +7,7 @@ bot = telebot.TeleBot(config.TOKEN)
 def lalala(message):
 	bot.send_message(message.chat.id,message.text)
 
-GROUP_ID = '954489189'
+GROUP_ID = '-1001329951463'
 
 
 
